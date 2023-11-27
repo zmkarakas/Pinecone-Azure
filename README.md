@@ -7,7 +7,7 @@ At the time of writing, Assistants ("Retrieval") on OpenAI have these limits:
 
 2. The size of all the files uploaded by your organization should not exceed 100GB (although this is upgradable).
 
-On top of this, there might be restrictions not specified in the documentation.  Therefore, there needs to be solution to the limits of the CustomGPT or Assistant knowledge base required for enterprise and larger data setups and scenarios. Enterprises currently have more than hundreds or thousands (or more) of files and TBs or PBs of data (which need to be vectorized to be accessed by the GPT). In order to alleviate the problem, I came up with a setup using a vectorDB such as Pinecone, which is a managed solution. Other vectorDBs such as Chroma can also be used. 
+On top of this, there might be restrictions not specified in the documentation.  Therefore, there needs to be solution to the limits of the CustomGPT or Assistant knowledge base required for enterprise and larger data setups and scenarios. Enterprises currently have more than hundreds or thousands (or more) of files and TBs or PBs of data (which need to be vectorized to be accessed by the GPT). In order to alleviate the problem, I came up with a setup using a vectorDB such as Pinecone, which is a managed solution. Other vectorDBs such as Chroma or pgvector can also be used. 
 
 ### Diagram of Architecture
 
