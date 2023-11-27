@@ -14,5 +14,6 @@ On top of this, there might be restrictions not specified in the documentation. 
 For this project I will be using OpenPowerlifting's full dataset (dated 2023-11-25) available here: https://openpowerlifting.gitlab.io/opl-csv/bulk-csv.html
 Unzipped size is around 550MBs, and a single CSV file. Also note that this dataset is updated daily. The dataset slightly exceeds the limit of 512 MB.
 
+![Miroboard](https://github.com/zmkarakas/Pinecone-Azure/assets/50174304/850fa03b-c64e-4746-aef9-1e1008d66594)
 
 
