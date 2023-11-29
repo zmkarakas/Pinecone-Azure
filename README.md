@@ -1,4 +1,4 @@
-# Pinecone-Azure
+# Pinecone-Azure (In Progress)
 
 ### Problem statement
 At the time of writing, Assistants ("Retrieval") on OpenAI have these limits: 
